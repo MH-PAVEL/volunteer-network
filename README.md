@@ -31,4 +31,4 @@ Site is responsive, it has firebase authentication and a collection of e-mails i
 - Heroku deploy
 
 ### [LIVE](https://volunteen-network.web.app/)
-### [Backend Repository](https://github.com/sonjoybarmon/volunteer-network-server)
+### [Backend Repository](https://github.com/MH-PAVEL/volunteer-network-server)
